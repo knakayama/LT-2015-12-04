@@ -136,7 +136,7 @@ class: center, middle
 ## [tmux-pwd-sh](https://github.com/knakayama/tmux-pwd-sh)
 
 ---
-# 以下のグループが
+# 以下のOrganizationが
 # tmuxプラグイン
 # 色々作ってくれてる
 ## [tmux-plugins](https://github.com/tmux-plugins)
