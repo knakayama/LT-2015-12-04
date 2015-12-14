@@ -41,9 +41,8 @@ class: center, middle
 # 感じになってる
 
 ---
-# [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)/[antigen](https://github.com/zsh-users/antigen)
-# [antibody](https://github.com/caarlos0/antibody)/[zgen](https://github.com/tarjoilija/zgen)/[zplug](https://github.com/b4b4r07/zplug)
-# [zpm](https://github.com/horosgrisa/ZPM)/[zacman](https://github.com/fzerorubigd/zacman)
+# [antigen](https://github.com/zsh-users/antigen)/[antibody](https://github.com/caarlos0/antibody)/[zgen](https://github.com/tarjoilija/zgen)
+# [zplug](https://github.com/b4b4r07/zplug)/[zpm](https://github.com/horosgrisa/ZPM)/[zacman](https://github.com/fzerorubigd/zacman)
 # etc...
 
 ---
